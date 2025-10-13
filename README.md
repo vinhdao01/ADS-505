@@ -114,8 +114,6 @@ Limitations: Historic bias, dataset coverage, temporal drift; not a guarantee of
 Configure / Extend
 ----------------------------------------
 - More models: Explore XGBoost / LightGBM in the notebook and add packages.
-- Explainability: Add SHAP to generate feature importances and reason codes.
-- Production: Schedule weekly batch scoring; write outputs to your CRM/CDP with score, decile, and drivers.
 
 ----------------------------------------
 License & Attribution
