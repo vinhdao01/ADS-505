@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy
+pandas==2.2.2
+scipy
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# App / presentation layer
+streamlit==1.38.0
+watchdog==6.0.0
+
+# Notebook support
+ipykernel==6.29.5
+jupyterlab==4.2.5
