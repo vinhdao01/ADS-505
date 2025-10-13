@@ -114,7 +114,6 @@ Limitations: Historic bias, dataset coverage, temporal drift; not a guarantee of
 Configure / Extend
 ----------------------------------------
 - More models: Explore XGBoost / LightGBM in the notebook and add packages.
-- Explainability: Add SHAP to generate feature importances and reason codes.
 
 ----------------------------------------
 License & Attribution
