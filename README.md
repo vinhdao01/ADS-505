@@ -51,7 +51,7 @@ Quickstart
    Download from Kaggle (“Health Insurance Cross Sell Prediction”). Place CSVs in data/ or update the notebook paths.
 
 2) Run the notebook
-   Open ADS505_Team_Notebook_CLEANED_SUMMARY.ipynb and run all cells. It will:
+   Open Final-Project.ipynb and run all cells. It will:
    - split data (train/test, stratified)
    - tune models via cross-validation
    - pick the winner and optionally calibrate it
