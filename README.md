@@ -1,4 +1,4 @@
-Health to Vehicle Insurance Cross-Sell Predictions
+Health/Vehicle Insurance Cross-Sell Predictions
 
 Predict which existing health-insurance customers are most likely to purchase vehicle insurance next. The goal is to lift conversions, reduce CAC, and increase ARPU by focusing outreach on high-propensity segments.
 
