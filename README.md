@@ -8,7 +8,7 @@ Source notebook used for reference EDA & baselines: https://www.kaggle.com/code/
 ----------------------------------------
 What’s in this repo
 ----------------------------------------
-- ADS505_Team_Notebook_CLEANED_SUMMARY.ipynb – main notebook (EDA → features → models → evaluation)
+- Final-Project.ipynb – main notebook (EDA → features → models → evaluation)
 - artifacts/ – saved model(s) produced by jupyter notebook
 - app_vehicle_insurance.py – minimal Streamlit demo for scoring one customer at a time
 - data/ (optional) – local copies / samples if you’re not pulling from Kaggle directly
