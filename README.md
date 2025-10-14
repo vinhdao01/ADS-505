@@ -8,11 +8,12 @@ Source notebook used for reference EDA & baselines: https://www.kaggle.com/code/
 ----------------------------------------
 What’s in this repo
 ----------------------------------------
-- ADS505_Team_Notebook_CLEANED_SUMMARY.ipynb – main notebook (EDA → features → models → evaluation)
+- ADS505_Final_Notebook_CrossSell_Team_8.ipynb – main notebook (EDA → features → models → evaluation)
 - artifacts/ – saved model(s) produced by the notebook (e.g., .joblib)
 - app_vehicle_insurance.py – minimal Streamlit demo for scoring one customer at a time
 - data/ (optional) – local copies / samples if you’re not pulling from Kaggle directly
 - requirements.txt – Python dependencies
+- Previous_Notebooks/ - Notebooks used for testing before moving to final
 - README.txt – this file
 
 ----------------------------------------
@@ -51,7 +52,7 @@ Quickstart
    Download from Kaggle (“Health Insurance Cross Sell Prediction”). Place CSVs in data/ or update the notebook paths.
 
 2) Run the notebook
-   Open ADS505_Team_Notebook_CLEANED_SUMMARY.ipynb and run all cells. It will:
+   Open ADS505_Final_Notebook_CrossSell_Team_8.ipynb and run all cells. It will:
    - split data (train/test, stratified)
    - tune models via cross-validation
    - pick the winner and optionally calibrate it
